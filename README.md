@@ -19,10 +19,10 @@ source venv/bin/activate
 pip install -r requirements.txt
 cp .env.example .env
 ```
-# отредактировать .env
+## отредактировать .env
 
 
-##Результат:
+## Результат:
 
 ```
 --- Запись 1 ---
