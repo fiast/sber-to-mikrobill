@@ -1,0 +1,5 @@
+venv/
+.env
+sber_attachments/
+*.tsv
+__pycache__/
